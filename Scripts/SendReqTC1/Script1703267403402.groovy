@@ -17,5 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequest(findTestObject('TestReq'))
+WS.sendRequest(findTestObject('TestRequest'))
+
+WS.sendRequestAndVerify(findTestObject('TestRequest'))
 

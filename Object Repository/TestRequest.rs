@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>TestReq</name>
+   <name>TestRequest</name>
    <tag></tag>
    <elementGuidId>a665c4fb-6938-48e0-be18-e5e5ba407540</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
